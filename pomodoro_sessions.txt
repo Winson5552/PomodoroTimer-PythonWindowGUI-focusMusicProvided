@@ -1,0 +1,170 @@
+Session: 1
+Day: Tue
+Date: 24 DEC 2024
+Time: 15:31:00
+
+Session: 1
+Day: Tue
+Date: 24 DEC 2024
+Time: 15:37:21
+
+Session: 2
+Day: Tue
+Date: 24 DEC 2024
+Time: 15:37:27
+
+Session: 1
+Day: Tue
+Date: 24 DEC 2024
+Time: 15:39:12
+
+Session: 2
+Day: Tue
+Date: 24 DEC 2024
+Time: 15:39:23
+
+Session: 3
+Day: Tue
+Date: 24 DEC 2024
+Time: 15:41:11
+
+Session: 1
+Day: Tue
+Date: 24 DEC 2024
+Time: 15:41:44
+
+Session: 2
+Day: Tue
+Date: 24 DEC 2024
+Time: 15:41:52
+
+Session: 1
+Day: Tue
+Date: 24 DEC 2024
+Time: 15:42:53
+
+Session: 2
+Day: Tue
+Date: 24 DEC 2024
+Time: 15:43:04
+
+Session: 3
+Day: Tue
+Date: 24 DEC 2024
+Time: 15:43:24
+
+Session: 4
+Day: Tue
+Date: 24 DEC 2024
+Time: 15:44:02
+
+Session: 5
+Day: Tue
+Date: 24 DEC 2024
+Time: 15:44:38
+
+Session: 1
+Day: Tue
+Date: 24 DEC 2024
+Time: 21:08:33
+
+Session: 1
+Day: Tue
+Date: 24 DEC 2024
+Time: 21:36:25
+
+Session: 1
+Day: Tue
+Date: 24 DEC 2024
+Time: 23:06:57
+
+Session: 2
+Day: Tue
+Date: 24 DEC 2024
+Time: 23:07:16
+
+Session: 1
+Day: Wed
+Date: 25 DEC 2024
+Time: 10:19:07
+
+Session: 2
+Day: Wed
+Date: 25 DEC 2024
+Time: 10:28:08
+
+Session: 3
+Day: Wed
+Date: 25 DEC 2024
+Time: 10:55:37
+
+Session: 4
+Day: Wed
+Date: 25 DEC 2024
+Time: 10:55:56
+
+Session: 1
+Day: Wed
+Date: 25 DEC 2024
+Time: 14:46:52
+
+Session: 1
+Day: Wed
+Date: 25 DEC 2024
+Time: 14:47:30
+
+Session: 2
+Day: Wed
+Date: 25 DEC 2024
+Time: 14:47:58
+
+Session: 3
+Day: Wed
+Date: 25 DEC 2024
+Time: 14:48:44
+
+Session: 4
+Day: Wed
+Date: 25 DEC 2024
+Time: 14:48:58
+
+Session: 5
+Day: Wed
+Date: 25 DEC 2024
+Time: 14:49:14
+
+Session: 6
+Day: Wed
+Date: 25 DEC 2024
+Time: 14:49:51
+
+Session: 1
+Day: Wed
+Date: 25 DEC 2024
+Time: 14:51:09
+
+Session: 1
+Day: Thu
+Date: 26 DEC 2024
+Time: 16:34:10
+
+Session: 1
+Day: Mon
+Date: 30 DEC 2024
+Time: 22:38:59
+
+Session: 1
+Day: Wed
+Date: 08 JAN 2025
+Time: 14:53:37
+
+Session: 2
+Day: Wed
+Date: 08 JAN 2025
+Time: 14:53:55
+
+Session: 3
+Day: Wed
+Date: 08 JAN 2025
+Time: 14:54:22
+
